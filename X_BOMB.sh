@@ -113,6 +113,7 @@ do
     echo "Press 4 To  Update (Works On Linux And Linux Emulators) "
     echo "Press 5 To  Exit "
     read ch
+    echo "select option "
     clear
     if [ $ch -eq 1 ];then
         $PYTHON bomber.py --sms
