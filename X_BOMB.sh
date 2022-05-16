@@ -32,10 +32,10 @@ banner() {
         figlet X_BOMB
     fi
     if ! [ -x "$(command -v toilet)" ]; then
-        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mSpeedX \e[0m"
+        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mXPH4N70M \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
-        toilet -f mono12 -F border X_PH4N70M (X PHANTOM)
+        toilet -f mono12 -F border X_PH4N70M
     fi
     echo -e "\e[1;34m For Any Queries Join Me!!!\e[0m"
     echo -e "\e[1;32m           Telegram: https://t.me/X_PH4N7OM \e[0m"
