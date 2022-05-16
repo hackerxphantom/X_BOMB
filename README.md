@@ -47,3 +47,6 @@ git clone https://github.com/XPH4N70M/X_BOMB
 cd X_BOMB
 
 ./X_BOMB.sh
+
+
+
