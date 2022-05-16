@@ -9,6 +9,8 @@ By using this, you agree that you cannot hold the contributors responsible for a
 
 To use the bomber type the following commands in Termux:
 
+👇👇
+
 pkg install git -y 
 pkg install python -y 
 git clone https://github.com/XPH4N70M/X_BOMB
@@ -16,12 +18,16 @@ cd X_BOMB
 chmod 777 X_BOMB.sh
 ./X_BOMB.sh
 
+👇👇
+
 Use X_BOMB In Linux
 
 sudo apt install git
 git clone https://github.com/XPH4N70M/X_BOMB
 cd X_BOMB
 ./X_BOMB.sh
+
+👇👇
 
 For Debian-based GNU/Linux distributions
 To use the application, type in the following commands in GNU/Linux terminal.
