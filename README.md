@@ -17,6 +17,7 @@ chmod 777 X_BOMB.sh
 ./X_BOMB.sh
 
 Use X_BOMB In Linux
+
 sudo apt install git
 git clone https://github.com/XPH4N70M/X_BOMB
 cd X_BOMB
