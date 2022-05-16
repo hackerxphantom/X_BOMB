@@ -1,3 +1,5 @@
+![PicsArt_22-05-16_18-36-01-929](https://user-images.githubusercontent.com/70594016/168599888-7b6ac301-9524-4d50-9a2c-ce667c10f219.png)
+
 NOTE:
 1) The application requires active internet connection to contact the APIs
 2) You would not be charged for any SMS/calls dispatched as a consequence of this script
