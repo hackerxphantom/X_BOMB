@@ -52,6 +52,7 @@ cd X_BOMB
 
 
 
-https://user-images.githubusercontent.com/70594016/168591343-c35aedf1-cc3a-40fc-8d77-2f7a9dbf9ed1.png
+![Screenshot_20220516-120712_zoom](https://user-images.githubusercontent.com/70594016/168591774-d8344132-1de4-4af9-b241-bca64d7fc076.png)
+
 
 
