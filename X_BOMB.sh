@@ -98,7 +98,7 @@ else
     echo .
     echo .
     install_deps
-    echo This Script Was Made By X PHANTOM (X_PH4N7OM)> .update
+    echo This Script Was Made By X PHANTOM X_PH4N7OM > .update
     echo 'Requirements Installed....'
     pause
 fi
