@@ -9,6 +9,9 @@ Always ensure that you are using the latest version of X_BOMB
 By using this, you agree that you cannot hold the contributors responsible for any misuse
 5) We Are Not Responsible For Any Misuse.
 
+Tutorial:
+https://youtu.be/e4m6Bw-9j0A
+
 To use the bomber type the following commands in Termux:
 
 👇👇
