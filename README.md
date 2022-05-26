@@ -14,44 +14,55 @@ https://youtu.be/e4m6Bw-9j0A
 
 To use the bomber type the following commands in Termux:
 
-👇👇
 
+```bash
 pkg install git -y 
-
+```
+```bash
 pkg install python -y 
-
+```
+```bash
 git clone https://github.com/XPH4N70M/X_BOMB
-
+```
+```bash
 cd X_BOMB
-
+```
+```bash
 chmod 777 X_BOMB.sh
-
+```
+```bash
 ./X_BOMB.sh
-
-👇👇
+```
 
 Use X_BOMB In Linux
-
+```bash
 sudo apt install git
-
+```
+```bash
 git clone https://github.com/XPH4N70M/X_BOMB
-
+```
+```bash
 cd X_BOMB
-
+```
+```bash
 ./X_BOMB.sh
-
+```
 👇👇
 
 For Debian-based GNU/Linux distributions
 To use the application, type in the following commands in GNU/Linux terminal.
-
+```bash
 sudo apt install git
-
+```
+```bash
 git clone https://github.com/XPH4N70M/X_BOMB
-
+```
+```bash
 cd X_BOMB
-
+```
+```bash
 ./X_BOMB.sh
+```
 
 
 
