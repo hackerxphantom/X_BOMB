@@ -1,5 +1,12 @@
 ![PicsArt_22-05-16_18-36-01-929](https://user-images.githubusercontent.com/70594016/168599888-7b6ac301-9524-4d50-9a2c-ce667c10f219.png)
 
+# X_BOMB
+WhatsApp Crash With one  Message
+
+###### Send Unlimited SMS,MAIL,CALL.
+***
+
+  
 NOTE:
 1) The application requires active internet connection to contact the APIs
 2) You would not be charged for any SMS/calls dispatched as a consequence of this script
@@ -13,7 +20,8 @@ Tutorial:
 https://youtu.be/e4m6Bw-9j0A
 
 To use the bomber type the following commands in Termux:
-
+### <p align="center">Commands to run tool in ur terminal
+***
 
 ```bash
 pkg install git -y 
@@ -33,7 +41,8 @@ chmod 777 X_BOMB.sh
 ```bash
 ./X_BOMB.sh
 ```
-
+### <p align="center">Commands to run tool in ur terminal
+***
 Use X_BOMB In Linux
 ```bash
 sudo apt install git
@@ -47,8 +56,10 @@ cd X_BOMB
 ```bash
 ./X_BOMB.sh
 ```
-👇👇
 
+### <p align="center">Commands to run tool in ur terminal
+***
+  
 For Debian-based GNU/Linux distributions
 To use the application, type in the following commands in GNU/Linux terminal.
 ```bash
